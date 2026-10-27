@@ -58,5 +58,11 @@
       "docs": "Documentation",
       "internal": "Chores"
     }
+  },
+  "allowScripts": {
+    "@parcel/watcher": true,
+    "@serialport/bindings-cpp": true,
+    "esbuild": true,
+    "nx": true
   }
 }
